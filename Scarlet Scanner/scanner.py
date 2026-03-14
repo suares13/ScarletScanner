@@ -19,7 +19,7 @@ print("""
 
 target = input("Digite o host para escanear (ex: scanme.nmap.org): ")
 
-# Portas comuns que hackers costumam testar
+# Portas comuns de serem usados por hackers para testes
 ports = [21, 22, 25, 53, 80, 443, 3306, 8080]
 
 print(f"\nIniciando reconhecimento no alvo: {target}\n")
