@@ -1,6 +1,10 @@
 # ⚔️ SCARLET SCANNER
 > **Status:** Blade of Miquella Edition
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Red_Team-darkred?style=for-the-badge&logo=kali-linux)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
 ### 💻 O que é o projeto
 O **Scarlet Scanner** é um script de reconhecimento de rede desenvolvido em Python. Ele atua como um *Port Scanner* básico e direto ao ponto, mapeando portas TCP em um host para identificar rapidamente quais serviços estão ativos.
 
