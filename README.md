@@ -1,12 +1,13 @@
 # SCARLET SCANNER: Blade of Miquella Edition
 
-
+```
  ██████╗ ██████╗ █████╗ ██████╗ ██╗     ███████╗████████╗
 ██╔════╝██╔════╝██╔══██╗██╔══██╗██║     ██╔════╝╚══██╔══╝
 ╚█████╗ ██║     ███████║██████╔╝██║     █████╗     ██║   
  ╚═══██╗██║     ██╔══██║██╔══██╗██║     ██╔══╝     ██║   
 ██████╔╝╚██████╗██║  ██║██║  ██║███████╗███████╗   ██║   
 ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝
+```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Red_Team-darkred?style=for-the-badge&logo=kali-linux)
