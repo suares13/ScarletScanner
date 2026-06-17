@@ -58,11 +58,17 @@ TARGET ────────────────────────�
 ► scanme.nmap.org
 
 RESULTS ─────────────────────────────────────────────
+
 [ ] Porta 21: fechada
+
 [⚔️] CRITICAL HIT! Porta 22 está vulnerável! ABERTA ✅
+
 [ ] Porta 25: fechada
+
 [⚔️] CRITICAL HIT! Porta 80 está vulnerável! ABERTA ✅
+
 [ ] Porta 443: fechada
+
 [ ] Porta 3306: fechada
 
 VERDICT ─────────────────────────────────────────────
