@@ -1,17 +1,18 @@
-# SCARLET SCANNER — Blade of Miquella Edition
+# SCARLET SCANNER: Blade of Miquella Edition
 
-    _________                     .__          __   
-   /   _____/ ____ _____ _______  |  |   _____/  |_ 
-   \_____  \_/ ___\\__  \\_  __ \ |  | _/ __ \   __\
-   /        \  \___ / __ \|  | \/ |  |_\  ___/|  |  
-  /_______  /\___  >____  /__|    |____/\___  >__|  
-          \/     \/     \/                  \/
+
+ ██████╗ ██████╗ █████╗ ██████╗ ██╗     ███████╗████████╗
+██╔════╝██╔════╝██╔══██╗██╔══██╗██║     ██╔════╝╚══██╔══╝
+╚█████╗ ██║     ███████║██████╔╝██║     █████╗     ██║   
+ ╚═══██╗██║     ██╔══██║██╔══██╗██║     ██╔══╝     ██║   
+██████╔╝╚██████╗██║  ██║██║  ██║███████╗███████╗   ██║   
+╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Red_Team-darkred?style=for-the-badge&logo=kali-linux)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-**Scarlet Scanner** scans a target host and tells you — directly and efficiently — which critical TCP ports are exposed to the internet. 
+**Scarlet Scanner** scans a target host and tells you, directly and efficiently, which critical TCP ports are exposed to the internet. 
 
 Built for security auditing, Recon phases in Red Team operations, and anyone mapping an attack surface. 
 
